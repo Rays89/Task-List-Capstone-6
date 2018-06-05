@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>This is a list of all the tasks you own.</p>
+<table class="table">
+    <tr>
+        <th>UserName</th>
+        <th>Description</th>
+        <th>Due Date</th>
+        <th>Status</th>
+        <th>Task Number</th>
+        
+    </tr>
+
+    @foreach (var c in ViewBag.TaskList)//used the foreach to print out the Tasks info.
+    {
+        <tr>
+            <td>@c.UserName</td>
+            <td>@c.Description</td>
+            <td>@c.DueDate</td>
+            <td>@c.Status</td>
+            <td>@c.TaskNumber</td>
+            
+            <td>
+                <a href="/Home/DeleteUser?TaskNumber=@c.TaskNumber" onclick="return confirm('Are you sure you want to delete the task?')" class="btn btn-danger btn-sm">
+                    <span class="glyphicon glyphicon-trash"></span> Delete
+                </a>
+                <a href="/Home/CheckTask?TaskNumber=@c.TaskNumber" onclick="return comfirm('Is the task complete?')" class="btn btn-danger btn-sm">
+                    <span class="glyphicon glyphicon-check"></span> Check
+                </a>
+            </td>
+           </tr>
+    }
+</table>

@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Createtask";
+}
+
+<h2>Createtask</h2>
+
+<form action="/Home/newtask" method="post">
+    UserName: <input type="text" name="UserName" readonly /><br />
+    Description: <input type="text" name="Description" /><br />
+    DueDate: <input type="text" name="DueDate" /><br />
+    Status: <input type="text" name="Status" /><br />
+ Task Number: <input type="text" name="TaskNumber" /><br />
+
+    <input type="submit" value="Add Task" />
+</form>

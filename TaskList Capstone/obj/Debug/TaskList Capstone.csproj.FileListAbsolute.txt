@@ -1,0 +1,46 @@
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\ApplicationInsights.config
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\TaskList Capstone.dll.config
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\TaskList Capstone.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\TaskList Capstone.pdb
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Antlr3.Runtime.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\EntityFramework.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\EntityFramework.SqlServer.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.Web.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.ApplicationInsights.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Newtonsoft.Json.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.Helpers.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.Mvc.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.Optimization.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.Razor.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.WebPages.Deployment.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.WebPages.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.WebPages.Razor.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\WebGrease.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\EntityFramework.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\EntityFramework.SqlServer.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.Helpers.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.Mvc.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.Optimization.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.Razor.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.WebPages.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.WebPages.Deployment.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\System.Web.WebPages.Razor.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Antlr3.Runtime.pdb
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Newtonsoft.Json.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.ApplicationInsights.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\bin\Microsoft.AI.Web.xml
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\obj\Debug\TaskList Capstone.csprojResolveAssemblyReference.cache
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\obj\Debug\TaskList Capstone.csproj.CoreCompileInputs.cache
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\obj\Debug\TaskList Capstone.dll
+c:\users\rachael\source\repos\TaskList Capstone\TaskList Capstone\obj\Debug\TaskList Capstone.pdb
