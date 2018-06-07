@@ -156,6 +156,35 @@ namespace TaskList_Capstone.Controllers
 
         }
 
+        public ActionResult DeleteTask(Task TaskNumber)
+        {
+            {
+                //1. create ORM
+                TaskListCapstoneEntities ORM = new TaskListCapstoneEntities();
+
+                //2. Find the task you want to delete
+                Task Found = ORM.Tasks.Remove(TaskNumber);
+
+                //3. Remove the task
+                if (Found != null)
+                {
+                    ORM.Tasks.Remove(Found);
+
+                    //4. save to the DB
+                    ORM.SaveChanges();
+
+                    return RedirectToAction("About");
+
+                }
+                else
+                {
+                    ViewBag.Error.Message = "Task not found";
+                    return View("Error");
+                }
+
+            }
+        }
+
 
     }
 
